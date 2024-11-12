@@ -29,7 +29,7 @@ A PowerShell script that helps you manage and quickly access your development pr
 
 1. Clone this repository or download `ps-work.ps1`
 ```powershell
-git clone https://github.com/yourusername/ps-work.git
+git clone https://github.com/lozanasc/ps-work.git
 ```
 
 2. Create or edit your PowerShell profile to auto-load the script (optional but recommended):
