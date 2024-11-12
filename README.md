@@ -6,6 +6,8 @@ A PowerShell script that helps you manage and quickly access your development pr
 - Automatically open project-related websites (GitHub, documentation, etc.)
 - Easily change the projects directory path
 
+![chrome-capture-2024-10-12 (2)](https://github.com/user-attachments/assets/807a5519-cee5-40b8-8b76-68cd12f3da87)
+
 ## Features
 
 - 🚀 Quick project access with simple commands
