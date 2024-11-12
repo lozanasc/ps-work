@@ -22,9 +22,9 @@ A PowerShell script that helps you manage and quickly access your development pr
 
 ## Installation
 
-1. Clone this repository or download `project-launcher.ps1`
+1. Clone this repository or download `ps-work.ps1`
 ```powershell
-git clone https://github.com/yourusername/project-launcher.git
+git clone https://github.com/yourusername/ps-work.git
 ```
 
 2. Create or edit your PowerShell profile to auto-load the script (optional but recommended):
@@ -38,12 +38,12 @@ if (!(Test-Path $PROFILE)) {
 }
 
 # Add this line to your profile (edit path according to where you saved the script)
-echo ". 'C:\path\to\project-launcher.ps1'" >> $PROFILE
+echo ". 'C:\path\to\ps-work.ps1'" >> $PROFILE
 ```
 
 3. Load the script:
 ```powershell
-. .\project-launcher.ps1
+. .\ps-work.ps1
 ```
 
 ## Usage
