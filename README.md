@@ -8,6 +8,9 @@ A PowerShell script that helps you manage and quickly access your development pr
 
 ![chrome-capture-2024-10-12 (2)](https://github.com/user-attachments/assets/807a5519-cee5-40b8-8b76-68cd12f3da87)
 
+![image](https://github.com/user-attachments/assets/c3aa65f0-99fc-465b-b9ee-b50466eb901b)
+
+
 ## Features
 
 - 🚀 Quick project access with simple commands
